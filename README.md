@@ -1,5 +1,6 @@
 Project Structure
 
+```
 emailvalidator/
 |-- main.go
 |-- validators/
@@ -15,3 +16,4 @@ emailvalidator/
     |-- syntax_validator.go
 |-- chain.go
 |-- chain_test.go
+```
