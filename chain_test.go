@@ -1,8 +1,9 @@
 package emailvalidator
 
 import (
-	"emailvalidator/validators"
 	"testing"
+
+	"github.com/sufimalek/emailvalidator/validators"
 )
 
 func TestValidatorChain(t *testing.T) {
