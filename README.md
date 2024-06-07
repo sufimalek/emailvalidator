@@ -25,3 +25,6 @@ emailvalidator/
 |-- chain_test.go
 ```
 
+## How to install ##
+
+go get github.com/sufimalek/emailvalidator
