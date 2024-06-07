@@ -1,4 +1,11 @@
-Project Structure
+# README #
+
+## What is this repository for? ##
+
+This is email validator repo
+
+
+## Project Layout ##
 
 ```
 emailvalidator/
@@ -17,3 +24,4 @@ emailvalidator/
 |-- chain.go
 |-- chain_test.go
 ```
+
